@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pitro.png"><SubTexture name="pitro idle0000" x="0" y="0" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro idle0001" x="673" y="0" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro idle0002" x="1346" y="0" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro idle0003" x="2019" y="0" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro idle0004" x="0" y="741" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro idle0005" x="673" y="741" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro right0000" x="1346" y="741" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro right0001" x="2019" y="741" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro right0002" x="0" y="1482" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro left0000" x="673" y="1482" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro left0001" x="1346" y="1482" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro left0002" x="2019" y="1482" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro up0000" x="0" y="2223" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro up0001" x="673" y="2223" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro up0002" x="1346" y="2223" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro down0000" x="2019" y="2223" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro down0001" x="0" y="2964" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+<SubTexture name="pitro down0002" x="673" y="2964" width="673" height="741" frameX="0" frameY="0" frameWidth="673" frameHeight="741" />
+</TextureAtlas>
