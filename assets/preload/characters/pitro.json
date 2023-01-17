@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "pitro idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "pitro left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "pitro down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "pitro up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "pitro right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/week2/pitro",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "pitro",
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		38,
+		72
+	],
+	"camera_position": [
+		180,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
