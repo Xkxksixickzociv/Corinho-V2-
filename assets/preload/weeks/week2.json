@@ -1,22 +1,22 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Mamamia", "pitro", [207, 38, 72]],
+		["Xalabaias", "pitro", [207, 38, 72]],
+		["Kaizo", "pitro", [207, 38, 72]],
+		["From-Hell", "pitro", [207, 38, 72]]
 	],
 
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
+	"weekCharacters": "pitro",
+	"weekBackground": "Background_Paitroll",
+	"bgPath": "week2",
+	"bgLib": "weeks",
+	"difficulties": "hard",
 
-	"storyName": "Spooky Month",
+	"storyName": "Pitro",
 	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekName": "Quarto do Pitro",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
